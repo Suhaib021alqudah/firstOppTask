@@ -56,14 +56,10 @@ Courses and instructors are added using class methods:
 
 ---
 
-## 🧪 Examples
 
-### Creating an Instructor
 
-```dart
-var inst1 = Instructor(
-    name_of_the_Instructor: 'Dr.Osama Ahmad',
-    salary_of_the_Instructor: 8000,
-    instructor_year_Of_experince: 6,
-);
+
+
+
+
 
